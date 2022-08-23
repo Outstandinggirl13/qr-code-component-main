@@ -1,5 +1,6 @@
 *.sketch
 *.fig
 *.xd
+*.txt
 .DS_Store
 .prettierignore
