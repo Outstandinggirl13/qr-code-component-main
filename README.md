@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-semantic-html-tags-and-css-KhCOJ6twA7](https://www.frontendmentor.io/solutions/qr-code-component-using-semantic-html-tags-and-css-KhCOJ6twA7)
-- Live Site URL: [https://outstandinggirl13.github.io/qr-code-component-main-frontendmentor/](https://outstandinggirl13.github.io/qr-code-component-main-frontendmentor/)
+- Live Site URL: [https://outstandinggirl13.github.io/qr-code-component-main/](https://outstandinggirl13.github.io/qr-code-component-main/)
 
 ## My process
 
